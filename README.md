@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/VU4GTdJzFNAAAAAM/doric-typing.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif?cid=ecf05e47fwelohukcct7silvl020luep0h4z0v6mqbolsp9q&rid=giphy.gif&ct=g"/>
 
 ###
 
