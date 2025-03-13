@@ -1,4 +1,4 @@
-<h2 align="center">Hello!, my name is Leandro, I'm from Brazil, and I am currently working with magento, frontend.</h2>
+<h2 align="center">Meu nome é Leandro Mendes da Silva, possuo curso superior Tecnologia em banco de dados, sou apaixado pelo mundo da tecnologia e atualmente estudo Java e Magento 2.</h2>
 
 ###
 
