@@ -1,5 +1,5 @@
 #👨‍💻 Leandro Mendes da Silva
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor Full Stack`**
 Meu nome é Leandro Mendes da Silva, possuo curso superior Tecnologia em banco de dados, sou apaixado pelo mundo da tecnologia e atualmente estudo Java.
 
 ### Tecnologias
