@@ -7,12 +7,20 @@ Meu nome é Leandro Mendes da Silva, possuo curso superior Tecnologia em banco d
 <img align="right" height="150" src="https://media4.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif?cid=ecf05e47fwelohukcct7silvl020luep0h4z0v6mqbolsp9q&rid=giphy.gif&ct=g"/>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-</div>
+<section>
+<img src="https://img.shields.io/badge/Java-red"/>
+<img src="https://img.shields.io/badge/Javascript-yellow"/>
+<img src="https://img.shields.io/badge/Angular-red"/>
+<img src="https://img.shields.io/badge/Docker-blue"/>
+<img src="https://img.shields.io/badge/Typescript-blue"/>  
+<img src="https://img.shields.io/badge/Spring%20boot-green"/>
+<img src="https://img.shields.io/badge/HTML5-orange"/>
+<img src="https://img.shields.io/badge/CSS-blue"/>
+<img src="https://img.shields.io/badge/LESS-blue"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue"/>
+<img src="https://img.shields.io/badge/Scss-pink"/>
+<img src="https://img.shields.io/badge/MongoDB-green"/>
+</section>
 
 ### ✨ Estatisticas
 
